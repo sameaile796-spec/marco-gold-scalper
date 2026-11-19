@@ -1,7 +1,7 @@
 
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "marco-gold-scalper",
+  "name": "marco-gold-scalper-pro",
   "main": "./worker.js",
   "compatibility_date": "2026-11-19",
   "observability": {
